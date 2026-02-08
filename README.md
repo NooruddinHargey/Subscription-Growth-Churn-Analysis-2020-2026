@@ -83,6 +83,7 @@ Highlights leading providers by subscriber base, demonstrating competitive conce
 ## 📁 Files Included
 
 - `Subscription_Growth_Churn_Analysis_2020_2026.twbx` - Tableau packaged workbook with embedded data
+- `Subscription_Funnel_2020_2026.xlsx` - Cleaned and structured source data (subscribers, churn, retention metrics)
 - `Subscription Growth & Churn Dashboard.jpg` - Full dashboard overview screenshot
 - `screenshots/` - Individual visualisation screenshots
   - Subscriber Growth Timeline
