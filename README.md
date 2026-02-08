@@ -22,6 +22,7 @@ The goal of this project is to demonstrate a practical analytics workflow: prepa
 - 2020–2021 saw an exceptional spike in subscriber growth, driven by lockdowns and increased demand for digital entertainment, productivity tools, and online services.
 - Churn rates began rising from 2022 onward, indicating growing subscription fatigue as consumers reassessed discretionary spending.
 - Streaming services experienced the highest volatility, with strong early growth followed by accelerated churn.
+- **"Subscription fatigue" intensified from 2023 onward as rising living costs prompted mass cancellations, with consumers cutting discretionary services, downgrading to cheaper tiers, and rotating subscriptions to maintain access while minimizing monthly commitments.**
 - Software and productivity subscriptions showed stronger long-term retention, reflecting higher perceived value and business dependency.
 - Gaming subscriptions displayed more cyclical behaviour, with churn often influenced by pricing changes, content release cycles, and broader economic pressure.
 - By 2025–2026, net subscriber growth stabilised or declined across most categories, signalling a more mature and competitive subscription market.
