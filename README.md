@@ -6,8 +6,6 @@ End-to-end subscription lifecycle and funnel analysis examining growth, churn, a
 ![SQL](https://img.shields.io/badge/SQL-Analytics-lightgrey)
 ![Data Analysis](https://img.shields.io/badge/Data-Analytics-orange)
 
-# Subscription Growth & Churn Analysis (2020–2026)
-
 ## 📊 Project Overview
 
 This project presents an end-to-end **subscription growth, retention, and churn analysis** covering the period **2020–2026**, with a focus on how consumer subscription behaviour evolved during the COVID-19 surge and the subsequent market correction.
