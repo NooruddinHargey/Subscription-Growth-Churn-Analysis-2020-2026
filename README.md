@@ -4,6 +4,7 @@
 ![Data Analysis](https://img.shields.io/badge/Data-Analytics-orange)
 
 # Subscription-Growth-Churn-Analysis-2020-2026
+End-to-end subscription lifecycle and funnel analysis examining growth, churn, and retention trends (2020–2026) using Tableau, Excel, and SQL.
 
 ## 📊 Project Overview
 
@@ -19,15 +20,34 @@ The goal of this project is to demonstrate a practical analytics workflow: prepa
 
 ---
 
+## 🎯 Why This Project Matters
+
+Subscription-based business models are highly sensitive to **churn, retention, and real-time revenue loss**. Even small failures in user experience or billing flows can materially impact revenue at scale.
+
+This project demonstrates how analytics can be used to **monitor subscription health, identify early warning signals, and support data-driven decision-making** in subscription-driven businesses.
+
+---
+
 ## 🔍 Key Insights
 
 - 2020–2021 saw an exceptional spike in subscriber growth, driven by lockdowns and increased demand for digital entertainment, productivity tools, and online services.
 - Churn rates began rising from 2022 onward, indicating growing subscription fatigue as consumers reassessed discretionary spending.
-- Streaming services experienced the highest volatility, with strong early growth followed by accelerated churn.
 - **"Subscription fatigue" intensified from 2023 onward as rising living costs prompted mass cancellations, with consumers cutting discretionary services, downgrading to cheaper tiers, and rotating subscriptions to maintain access while minimizing monthly commitments.**
+- Streaming services experienced the highest volatility, with strong early growth followed by accelerated churn.
 - Software and productivity subscriptions showed stronger long-term retention, reflecting higher perceived value and business dependency.
 - Gaming subscriptions displayed more cyclical behaviour, with churn often influenced by pricing changes, content release cycles, and broader economic pressure.
 - By 2025–2026, net subscriber growth stabilised or declined across most categories, signalling a more mature and competitive subscription market.
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- Tableau Public: dashboard design, interactive filters, layout optimisation  
+- Data Analysis: churn, retention, and subscriber growth analysis  
+- Funnel Analysis: understanding subscriber drop-off across the lifecycle  
+- KPI Tracking: growth rates, churn percentages, retention trends  
+- Data Modelling: time-series structuring and category segmentation  
+- Business Insight Communication: translating data into actionable insights  
 
 ---
 
@@ -35,7 +55,7 @@ The goal of this project is to demonstrate a practical analytics workflow: prepa
 
 ### Complete Dashboard Overview
 ![Dashboard Overview](Subscription%20Growth%20&%20Churn%20Dashboard.jpg)
-Interactive dashboard combining growth trends, churn metrics, and competitive positioning across all subscription providers and sectors.
+Comprehensive view of all key metrics and visualizations, providing an at-a-glance analysis of subscription trends, churn patterns, market positioning, and provider performance across the 2020–2026 period.
 
 ### Subscriber Growth Timeline
 ![Subscriber Growth Timeline](screenshots/Subscriber%20Growth%20Timeline.jpg)
@@ -71,17 +91,6 @@ Highlights leading providers by subscriber base, demonstrating competitive conce
 
 ---
 
-## 🛠️ Skills Demonstrated
-
-- Tableau Public: dashboard design, interactive filters, layout optimisation  
-- Data Analysis: churn, retention, and subscriber growth analysis  
-- Funnel Analysis: understanding subscriber drop-off across the lifecycle  
-- KPI Tracking: growth rates, churn percentages, retention trends  
-- Data Modelling: time-series structuring and category segmentation  
-- Business Insight Communication: translating data into actionable insights  
-
----
-
 ## 📁 Files Included
 
 - `Subscription_Growth_Churn_Analysis_2020_2026.twbx` - Tableau packaged workbook with embedded data
@@ -104,14 +113,7 @@ Highlights leading providers by subscriber base, demonstrating competitive conce
 
 - **Interactive Dashboard**: Open the `.twbx` file in Tableau Public or Tableau Desktop to interact with filters and charts
 - **Quick View**: Review the screenshots above for a quick overview of the dashboard design and insights
-
----
-
-## 🎯 Why This Project Matters
-
-Subscription-based business models are highly sensitive to **churn, retention, and real-time revenue loss**. Even small failures in user experience or billing flows can materially impact revenue at scale.
-
-This project demonstrates how analytics can be used to **monitor subscription health, identify early warning signals, and support data-driven decision-making** in subscription-driven businesses.
+- **Tableau Public**: [View on Tableau Public](your-tableau-public-link-here) *(optional - add if you publish it)*
 
 ---
 
@@ -125,11 +127,8 @@ This dashboard demonstrates the ability to:
 
 ---
 
-## 📌 Tools Used
+## 🛠️ Built With
 
-- Tableau Public  
-- Excel (data preparation and modelling)  
-- SQL (data structuring and validation concepts)
-  
----
-
+**Tableau Public** - Dashboard design and interactive visualizations  
+**Excel** - Data preparation, cleaning, and modeling  
+**SQL** - Data structuring and validation concepts
