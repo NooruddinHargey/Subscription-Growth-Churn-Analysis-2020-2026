@@ -113,7 +113,6 @@ Highlights leading providers by subscriber base, demonstrating competitive conce
 
 - **Interactive Dashboard**: Open the `.twbx` file in Tableau Public or Tableau Desktop to interact with filters and charts
 - **Quick View**: Review the screenshots above for a quick overview of the dashboard design and insights
-- **Tableau Public**: [View on Tableau Public](your-tableau-public-link-here) *(optional - add if you publish it)*
 
 ---
 
