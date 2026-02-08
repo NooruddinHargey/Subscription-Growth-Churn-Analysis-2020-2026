@@ -1,10 +1,10 @@
-# Subscription-Growth-Churn-Analysis-2020-2026
-End-to-end subscription lifecycle and funnel analysis examining growth, churn, and retention trends (2020–2026) using Tableau, Excel, and SQL.
-
 ![Tableau](https://img.shields.io/badge/Tableau-Public-blue)
 ![Excel](https://img.shields.io/badge/Excel-Data_Analysis-green)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-lightgrey)
 ![Data Analysis](https://img.shields.io/badge/Data-Analytics-orange)
+
+# Subscription-Growth-Churn-Analysis-2020-2026
+End-to-end subscription lifecycle and funnel analysis examining growth, churn, and retention trends (2020–2026) using Tableau, Excel, and SQL.
 
 ## 📊 Project Overview
 
