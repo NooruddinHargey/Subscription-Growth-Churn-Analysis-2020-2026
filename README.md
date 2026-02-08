@@ -31,7 +31,9 @@ The goal of this project is to demonstrate a practical analytics workflow: prepa
 
 ## 📉 Dashboard Highlights
 
+### Complete Dashboard Overview
 ![Dashboard Overview](Subscription%20Growth%20&%20Churn%20Dashboard.jpg)
+Interactive dashboard combining growth trends, churn metrics, and competitive positioning across all subscription providers and sectors.
 
 ### Subscriber Growth Timeline
 ![Subscriber Growth Timeline](screenshots/Subscriber%20Growth%20Timeline.jpg)
