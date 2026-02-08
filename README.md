@@ -31,28 +31,38 @@ The goal of this project is to demonstrate a practical analytics workflow: prepa
 
 ## 📉 Dashboard Highlights
 
+![Dashboard Overview](Subscription%20Growth%20&%20Churn%20Dashboard.jpg)
+
 ### Subscriber Growth Timeline
+![Subscriber Growth Timeline](screenshots/Subscriber%20Growth%20Timeline.jpg)
 Tracks subscriber growth by category from 2020 to 2026, clearly highlighting the COVID-era surge and post-pandemic slowdown.
 
 ### Churn Rate Analysis
+![Churn Rate Analysis](screenshots/Churn%20Rate%20Analysis.jpg)
 Shows churn rate trends over time, helping identify periods of increased subscriber drop-off and potential revenue risk.
 
 ### Churn vs Retention Timeline
+![Churn vs Retention Timeline](screenshots/Churn%20vs%20Retention%20Timeline.jpg)
 Compares churn and retention behaviour directly, illustrating how widening gaps impact net subscriber growth.
 
 ### Retention Distribution
+![Retention Distribution](screenshots/Retention%20Distribution.jpg)
 Breaks down retention patterns across subscription categories, highlighting differences between short-term and long-term user behaviour.
 
 ### YoY Growth Heatmap
+![YoY Growth Heatmap](screenshots/YoY%20Growth%20Heatmap.jpg)
 Year-over-year growth comparison by category, enabling quick identification of acceleration, stagnation, or contraction phases.
 
 ### Market Share Snapshot (2026)
+![2026 Market Share](screenshots/2026%20Market%20Share.jpg)
 Displays relative market share by subscription category, highlighting consolidation trends and dominant segments.
 
 ### Performance Matrix
+![Performance Matrix](screenshots/Performance%20Matrix.jpg)
 Plots growth versus churn to identify high-growth/high-risk categories and more stable subscription models.
 
 ### Top Subscription Providers
+![Top 10 Providers](screenshots/Top%2010%20Providers.jpg)
 Highlights leading providers by subscriber base, demonstrating competitive concentration within subscription markets.
 
 ---
@@ -68,6 +78,31 @@ Highlights leading providers by subscriber base, demonstrating competitive conce
 
 ---
 
+## 📁 Files Included
+
+- `Subscription_Growth_Churn_Analysis_2020_2026.twbx` - Tableau packaged workbook with embedded data
+- `Subscription Growth & Churn Dashboard.jpg` - Full dashboard overview screenshot
+- `screenshots/` - Individual visualisation screenshots
+  - Subscriber Growth Timeline
+  - Churn Rate Analysis
+  - Churn vs Retention Timeline
+  - Retention Distribution
+  - YoY Growth Heatmap
+  - 2026 Market Share
+  - Performance Matrix
+  - Top 10 Providers
+- `README.md` - Project documentation
+
+---
+
+## 👀 How to View
+
+- **Interactive Dashboard**: Open the `.twbx` file in Tableau Public or Tableau Desktop to interact with filters and charts
+- **Quick View**: Review the screenshots above for a quick overview of the dashboard design and insights
+- **Tableau Public**: [View on Tableau Public](your-tableau-public-link-here) *(optional - add if you publish it)*
+
+---
+
 ## 🎯 Why This Project Matters
 
 Subscription-based business models are highly sensitive to **churn, retention, and real-time revenue loss**. Even small failures in user experience or billing flows can materially impact revenue at scale.
@@ -76,8 +111,29 @@ This project demonstrates how analytics can be used to **monitor subscription he
 
 ---
 
+## 💡 Tip for Recruiters & Portfolio Reviewers
+
+This dashboard demonstrates the ability to:
+- Clean and model data for time-series analysis
+- Analyze complex business metrics (churn, retention, growth)
+- Build interactive dashboards ready for operational or business insights
+- Communicate data findings through clear visual storytelling
+
+---
+
 ## 📌 Tools Used
 
 - Tableau Public  
 - Excel (data preparation and modelling)  
 - SQL (data structuring and validation concepts)
+
+---
+
+## 📧 Contact
+
+**Nooruddin Hargey**  
+www.linkedin.com/in/nooruddin-hargey | https://github.com/NooruddinHargey?tab=repositories | [Email](mailto:nooruddin.hargey@gmail.com
+
+---
+
+*Note: Data used in this analysis is compiled from publicly available sources and includes estimates for demonstration purposes.*
