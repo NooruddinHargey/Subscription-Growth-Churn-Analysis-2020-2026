@@ -15,6 +15,8 @@ The dataset was compiled from publicly available industry statistics and market 
 
 The goal of this project is to demonstrate a practical analytics workflow: preparing data, analysing subscription lifecycles, and presenting insights through a clear, business-focused dashboard.
 
+*Note: Figures may not be 100% exact and are intended to demonstrate analytical, data cleaning, and visualization skills rather than serve as official statistics.*
+
 ---
 
 ## 🔍 Key Insights
@@ -131,4 +133,3 @@ This dashboard demonstrates the ability to:
   
 ---
 
-*Note: Data used in this analysis is compiled from publicly available sources and includes estimates for demonstration purposes.*
