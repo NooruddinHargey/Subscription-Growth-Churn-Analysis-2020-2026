@@ -40,6 +40,37 @@ This project demonstrates how analytics can be used to **monitor subscription he
 
 ---
 
+## Business Problem
+
+Subscription businesses lose revenue silently — a small increase in monthly 
+churn compounds over time and is often invisible until quarterly reporting. 
+A subscription/retention manager needs to know which product categories are 
+most exposed to churn risk, when that risk accelerates, and which retention 
+levers (pricing tier, bundling, engagement) apply to which category — so 
+budget for retention initiatives is spent where it has the most impact.
+
+## Recommendations
+
+- **Prioritise streaming for retention spend**: Streaming shows the highest 
+  volatility (strong early growth, accelerated later churn), making it the 
+  best candidate for proactive retention campaigns — e.g. win-back offers 
+  timed before the fatigue window identified from 2023 onward.
+- **Use software/productivity retention patterns as a benchmark**: Their 
+  stronger long-term retention suggests bundling or usage-based value framing 
+  (not just price) drives stickiness — a pattern streaming providers could 
+  test via feature bundling rather than price cuts alone.
+- **Introduce tiered/flexible pricing ahead of the fatigue curve**: Since 
+  "subscription fatigue" drove downgrades and cancellations from 2023, 
+  providers should offer mid-tier or pause options before customers reach 
+  the cancellation decision, rather than only after churn signals appear in 
+  billing data.
+- **Treat 2025–2026 stabilisation as a market maturity signal**: Flat/declining 
+  net growth across most categories suggests future revenue growth should 
+  come from retention and expansion (upsell) rather than new acquisition — 
+  a reallocation worth flagging to leadership.
+
+  ---
+
 ## 🛠️ Skills Demonstrated
 
 - Tableau Public: dashboard design, interactive filters, layout optimisation  
